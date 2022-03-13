@@ -9,21 +9,27 @@
 /* Begin PBXBuildFile section */
 		4288CFDA27DCD42600316D96 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4288CFD927DCD42600316D96 /* AppDelegate.swift */; };
 		4288CFDC27DCD42600316D96 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4288CFDB27DCD42600316D96 /* SceneDelegate.swift */; };
-		4288CFDE27DCD42600316D96 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4288CFDD27DCD42600316D96 /* ViewController.swift */; };
 		4288CFE127DCD42600316D96 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4288CFDF27DCD42600316D96 /* Main.storyboard */; };
 		4288CFE327DCD42F00316D96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4288CFE227DCD42F00316D96 /* Assets.xcassets */; };
 		4288CFE627DCD42F00316D96 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4288CFE427DCD42F00316D96 /* LaunchScreen.storyboard */; };
+		4288D00227DD030900316D96 /* KeyboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4288D00127DD030900316D96 /* KeyboardViewController.swift */; };
+		4288D00627DD032100316D96 /* BoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4288D00527DD032100316D96 /* BoardViewController.swift */; };
+		4288D00B27DD077800316D96 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4288D00A27DD077800316D96 /* ViewController.swift */; };
+		42A4E19527DDB08300D8B37D /* KeyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A4E19327DDB08300D8B37D /* KeyCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		4288CFD627DCD42600316D96 /* LearnWordle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearnWordle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4288CFD927DCD42600316D96 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4288CFDB27DCD42600316D96 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		4288CFDD27DCD42600316D96 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		4288CFE027DCD42600316D96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4288CFE227DCD42F00316D96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4288CFE527DCD42F00316D96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4288CFE727DCD42F00316D96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4288D00127DD030900316D96 /* KeyboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardViewController.swift; sourceTree = "<group>"; };
+		4288D00527DD032100316D96 /* BoardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoardViewController.swift; sourceTree = "<group>"; };
+		4288D00A27DD077800316D96 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		42A4E19327DDB08300D8B37D /* KeyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +62,34 @@
 		4288CFD827DCD42600316D96 /* LearnWordle */ = {
 			isa = PBXGroup;
 			children = (
+				4288CFE727DCD42F00316D96 /* Info.plist */,
+				4288D00027DD026000316D96 /* Other */,
+				4288CFED27DCD43F00316D96 /* Core */,
+				4288D00A27DD077800316D96 /* ViewController.swift */,
+			);
+			path = LearnWordle;
+			sourceTree = "<group>";
+		};
+		4288CFED27DCD43F00316D96 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				4288D00127DD030900316D96 /* KeyboardViewController.swift */,
+				4288D00527DD032100316D96 /* BoardViewController.swift */,
+				42A4E19327DDB08300D8B37D /* KeyCell.swift */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		4288D00027DD026000316D96 /* Other */ = {
+			isa = PBXGroup;
+			children = (
 				4288CFD927DCD42600316D96 /* AppDelegate.swift */,
 				4288CFDB27DCD42600316D96 /* SceneDelegate.swift */,
-				4288CFDD27DCD42600316D96 /* ViewController.swift */,
 				4288CFDF27DCD42600316D96 /* Main.storyboard */,
 				4288CFE227DCD42F00316D96 /* Assets.xcassets */,
 				4288CFE427DCD42F00316D96 /* LaunchScreen.storyboard */,
-				4288CFE727DCD42F00316D96 /* Info.plist */,
 			);
-			path = LearnWordle;
+			path = Other;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,9 +162,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4288CFDE27DCD42600316D96 /* ViewController.swift in Sources */,
+				4288D00B27DD077800316D96 /* ViewController.swift in Sources */,
 				4288CFDA27DCD42600316D96 /* AppDelegate.swift in Sources */,
 				4288CFDC27DCD42600316D96 /* SceneDelegate.swift in Sources */,
+				42A4E19527DDB08300D8B37D /* KeyCell.swift in Sources */,
+				4288D00227DD030900316D96 /* KeyboardViewController.swift in Sources */,
+				4288D00627DD032100316D96 /* BoardViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,13 +317,14 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = AAU9QPH2F2;
 				INFOPLIST_FILE = LearnWordle/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = HieuTong.LearnWordle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -308,13 +337,14 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = AAU9QPH2F2;
 				INFOPLIST_FILE = LearnWordle/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = HieuTong.LearnWordle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

@@ -1,0 +1,403 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So6UIViewC", ""]
+- ["So8UIButtonC", ""]
+- ["So6UIViewC", "allLayoutSubviews"]
+- ["So8UIButtonC", "setTitleLabelForAll"]
+provides-dynamic-lookup:
+- "allLayoutSubviews"
+- "setTitleLabelForAll"
+depends-top-level:
+- "String"
+- "UIButton"
+- "UIView"
+- !private "layoutSubviews"
+- !private "setTitle"
+- !private "subviews"
+depends-member:
+- !private ["Sa", "forEach"]
+- ["SK", ""]
+- !private ["SK", "forEach"]
+- ["So15CALayerDelegateP", "String"]
+- ["So15CALayerDelegateP", "allLayoutSubviews"]
+- !private ["So15CALayerDelegateP", "layoutSubviews"]
+- !private ["So15CALayerDelegateP", "setTitle"]
+- ["So15CALayerDelegateP", "setTitleLabelForAll"]
+- !private ["So15CALayerDelegateP", "subviews"]
+- !private ["s7CVarArgP", "allLayoutSubviews"]
+- !private ["s7CVarArgP", "forEach"]
+- !private ["s7CVarArgP", "layoutSubviews"]
+- !private ["s7CVarArgP", "setTitle"]
+- !private ["s7CVarArgP", "subviews"]
+- ["Sl", ""]
+- !private ["Sl", "forEach"]
+- ["SL", ""]
+- !private ["10Foundation15ContiguousBytesP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "allLayoutSubviews"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "layoutSubviews"]
+- !private ["s28CustomDebugStringConvertibleP", "setTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "subviews"]
+- !private ["s17CustomReflectableP", "forEach"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "allLayoutSubviews"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "layoutSubviews"]
+- !private ["s23CustomStringConvertibleP", "setTitle"]
+- !private ["s23CustomStringConvertibleP", "subviews"]
+- !private ["10Foundation12DataProtocolP", ""]
+- !private ["10Foundation12DataProtocolP", "forEach"]
+- !private ["Se", "forEach"]
+- !private ["SE", "forEach"]
+- ["SQ", ""]
+- !private ["SQ", "allLayoutSubviews"]
+- !private ["SQ", "application"]
+- !private ["SQ", "disabled"]
+- !private ["SQ", "focused"]
+- !private ["SQ", "forEach"]
+- !private ["SQ", "layoutSubviews"]
+- !private ["SQ", "normal"]
+- !private ["SQ", "reserved"]
+- !private ["SQ", "selected"]
+- !private ["SQ", "setTitle"]
+- !private ["SQ", "subviews"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "application"]
+- !private ["s25ExpressibleByArrayLiteralP", "disabled"]
+- !private ["s25ExpressibleByArrayLiteralP", "focused"]
+- !private ["s25ExpressibleByArrayLiteralP", "forEach"]
+- !private ["s25ExpressibleByArrayLiteralP", "normal"]
+- !private ["s25ExpressibleByArrayLiteralP", "reserved"]
+- !private ["s25ExpressibleByArrayLiteralP", "selected"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["SH", ""]
+- !private ["SH", "allLayoutSubviews"]
+- !private ["SH", "forEach"]
+- !private ["SH", "layoutSubviews"]
+- !private ["SH", "setTitle"]
+- !private ["SH", "subviews"]
+- ["s25LosslessStringConvertibleP", ""]
+- !private ["SM", ""]
+- !private ["SM", "forEach"]
+- !private ["10Foundation19MutableDataProtocolP", "forEach"]
+- ["So8NSCodingP", "String"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "allLayoutSubviews"]
+- !private ["So8NSCodingP", "layoutSubviews"]
+- !private ["So8NSCodingP", "setTitle"]
+- ["So8NSCodingP", "setTitleLabelForAll"]
+- !private ["So8NSCodingP", "subviews"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "allLayoutSubviews"]
+- !private ["So8NSObjectC", "layoutSubviews"]
+- !private ["So8NSObjectC", "setTitle"]
+- ["So8NSObjectC", "setTitleLabelForAll"]
+- !private ["So8NSObjectC", "subviews"]
+- ["So8NSObjectP", "String"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "allLayoutSubviews"]
+- !private ["So8NSObjectP", "layoutSubviews"]
+- !private ["So8NSObjectP", "setTitle"]
+- ["So8NSObjectP", "setTitleLabelForAll"]
+- !private ["So8NSObjectP", "subviews"]
+- !private ["s9OptionSetP", "application"]
+- !private ["s9OptionSetP", "disabled"]
+- !private ["s9OptionSetP", "focused"]
+- !private ["s9OptionSetP", "normal"]
+- !private ["s9OptionSetP", "reserved"]
+- !private ["s9OptionSetP", "selected"]
+- !private ["Sk", ""]
+- !private ["Sk", "forEach"]
+- !private ["Sm", ""]
+- !private ["Sm", "forEach"]
+- !private ["SY", ""]
+- !private ["SY", "application"]
+- !private ["SY", "disabled"]
+- !private ["SY", "focused"]
+- !private ["SY", "normal"]
+- !private ["SY", "reserved"]
+- !private ["SY", "selected"]
+- ["ST", ""]
+- !private ["ST", "forEach"]
+- !private ["s10SetAlgebraP", ""]
+- !private ["s10SetAlgebraP", "application"]
+- !private ["s10SetAlgebraP", "disabled"]
+- !private ["s10SetAlgebraP", "focused"]
+- !private ["s10SetAlgebraP", "normal"]
+- !private ["s10SetAlgebraP", "reserved"]
+- !private ["s10SetAlgebraP", "selected"]
+- !private ["So14UIControlStateV", "application"]
+- !private ["So14UIControlStateV", "disabled"]
+- !private ["So14UIControlStateV", "focused"]
+- !private ["So14UIControlStateV", "normal"]
+- !private ["So14UIControlStateV", "reserved"]
+- !private ["So14UIControlStateV", "selected"]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "String"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "setTitle"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "setTitleLabelForAll"]
+- ["So29UIAccessibilityIdentificationP", "String"]
+- ["So29UIAccessibilityIdentificationP", "allLayoutSubviews"]
+- !private ["So29UIAccessibilityIdentificationP", "layoutSubviews"]
+- !private ["So29UIAccessibilityIdentificationP", "setTitle"]
+- ["So29UIAccessibilityIdentificationP", "setTitleLabelForAll"]
+- !private ["So29UIAccessibilityIdentificationP", "subviews"]
+- ["So12UIAppearanceP", "String"]
+- ["So12UIAppearanceP", "allLayoutSubviews"]
+- !private ["So12UIAppearanceP", "layoutSubviews"]
+- !private ["So12UIAppearanceP", "setTitle"]
+- ["So12UIAppearanceP", "setTitleLabelForAll"]
+- !private ["So12UIAppearanceP", "subviews"]
+- ["So21UIAppearanceContainerP", "String"]
+- ["So21UIAppearanceContainerP", "allLayoutSubviews"]
+- !private ["So21UIAppearanceContainerP", "layoutSubviews"]
+- !private ["So21UIAppearanceContainerP", "setTitle"]
+- ["So21UIAppearanceContainerP", "setTitleLabelForAll"]
+- !private ["So21UIAppearanceContainerP", "subviews"]
+- ["So8UIButtonC", "String"]
+- ["So8UIButtonC", ""]
+- !private ["So8UIButtonC", "setTitle"]
+- ["So8UIButtonC", "setTitleLabelForAll"]
+- ["So32UIContextMenuInteractionDelegateP", "String"]
+- !private ["So32UIContextMenuInteractionDelegateP", "setTitle"]
+- ["So32UIContextMenuInteractionDelegateP", "setTitleLabelForAll"]
+- ["So9UIControlC", "String"]
+- ["So9UIControlC", ""]
+- !private ["So9UIControlC", "setTitle"]
+- ["So9UIControlC", "setTitleLabelForAll"]
+- ["So17UICoordinateSpaceP", "String"]
+- ["So17UICoordinateSpaceP", "allLayoutSubviews"]
+- !private ["So17UICoordinateSpaceP", "layoutSubviews"]
+- !private ["So17UICoordinateSpaceP", "setTitle"]
+- ["So17UICoordinateSpaceP", "setTitleLabelForAll"]
+- !private ["So17UICoordinateSpaceP", "subviews"]
+- ["So13UIDynamicItemP", "String"]
+- ["So13UIDynamicItemP", "allLayoutSubviews"]
+- !private ["So13UIDynamicItemP", "layoutSubviews"]
+- !private ["So13UIDynamicItemP", "setTitle"]
+- ["So13UIDynamicItemP", "setTitleLabelForAll"]
+- !private ["So13UIDynamicItemP", "subviews"]
+- ["So18UIFocusEnvironmentP", "String"]
+- !private ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "allLayoutSubviews"]
+- !private ["So18UIFocusEnvironmentP", "layoutSubviews"]
+- !private ["So18UIFocusEnvironmentP", "setTitle"]
+- ["So18UIFocusEnvironmentP", "setTitleLabelForAll"]
+- !private ["So18UIFocusEnvironmentP", "subviews"]
+- ["So11UIFocusItemP", "String"]
+- ["So11UIFocusItemP", "allLayoutSubviews"]
+- !private ["So11UIFocusItemP", "layoutSubviews"]
+- !private ["So11UIFocusItemP", "setTitle"]
+- ["So11UIFocusItemP", "setTitleLabelForAll"]
+- !private ["So11UIFocusItemP", "subviews"]
+- ["So20UIFocusItemContainerP", "String"]
+- ["So20UIFocusItemContainerP", "allLayoutSubviews"]
+- !private ["So20UIFocusItemContainerP", "layoutSubviews"]
+- !private ["So20UIFocusItemContainerP", "setTitle"]
+- ["So20UIFocusItemContainerP", "setTitleLabelForAll"]
+- !private ["So20UIFocusItemContainerP", "subviews"]
+- !private ["11LearnWordle10UIInitableP", "allLayoutSubviews"]
+- !private ["11LearnWordle10UIInitableP", "allLayoutSubviews"]
+- !private ["11LearnWordle10UIInitableP", "allLayoutSubviews"]
+- !private ["11LearnWordle10UIInitableP", "allLayoutSubviews"]
+- !private ["11LearnWordle10UIInitableP", "layoutSubviews"]
+- !private ["11LearnWordle10UIInitableP", "layoutSubviews"]
+- !private ["11LearnWordle10UIInitableP", "layoutSubviews"]
+- !private ["11LearnWordle10UIInitableP", "layoutSubviews"]
+- !private ["11LearnWordle10UIInitableP", "setTitle"]
+- !private ["11LearnWordle10UIInitableP", "setTitle"]
+- !private ["11LearnWordle10UIInitableP", "setTitle"]
+- !private ["11LearnWordle10UIInitableP", "setTitle"]
+- !private ["11LearnWordle10UIInitableP", "subviews"]
+- !private ["11LearnWordle10UIInitableP", "subviews"]
+- !private ["11LearnWordle10UIInitableP", "subviews"]
+- !private ["11LearnWordle10UIInitableP", "subviews"]
+- ["So24UILargeContentViewerItemP", "String"]
+- ["So24UILargeContentViewerItemP", "allLayoutSubviews"]
+- !private ["So24UILargeContentViewerItemP", "layoutSubviews"]
+- !private ["So24UILargeContentViewerItemP", "setTitle"]
+- ["So24UILargeContentViewerItemP", "setTitleLabelForAll"]
+- !private ["So24UILargeContentViewerItemP", "subviews"]
+- ["So30UIPasteConfigurationSupportingP", "String"]
+- !private ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "allLayoutSubviews"]
+- !private ["So30UIPasteConfigurationSupportingP", "layoutSubviews"]
+- !private ["So30UIPasteConfigurationSupportingP", "setTitle"]
+- ["So30UIPasteConfigurationSupportingP", "setTitleLabelForAll"]
+- !private ["So30UIPasteConfigurationSupportingP", "subviews"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "allLayoutSubviews"]
+- !private ["So11UIResponderC", "layoutSubviews"]
+- !private ["So11UIResponderC", "setTitle"]
+- ["So11UIResponderC", "setTitleLabelForAll"]
+- !private ["So11UIResponderC", "subviews"]
+- ["So30UIResponderStandardEditActionsP", "String"]
+- !private ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "allLayoutSubviews"]
+- !private ["So30UIResponderStandardEditActionsP", "layoutSubviews"]
+- !private ["So30UIResponderStandardEditActionsP", "setTitle"]
+- ["So30UIResponderStandardEditActionsP", "setTitleLabelForAll"]
+- !private ["So30UIResponderStandardEditActionsP", "subviews"]
+- ["So35UISpringLoadedInteractionSupportingP", "String"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setTitle"]
+- ["So35UISpringLoadedInteractionSupportingP", "setTitleLabelForAll"]
+- ["So18UITraitEnvironmentP", "String"]
+- ["So18UITraitEnvironmentP", "allLayoutSubviews"]
+- !private ["So18UITraitEnvironmentP", "layoutSubviews"]
+- !private ["So18UITraitEnvironmentP", "setTitle"]
+- ["So18UITraitEnvironmentP", "setTitleLabelForAll"]
+- !private ["So18UITraitEnvironmentP", "subviews"]
+- ["So23UIUserActivityRestoringP", "String"]
+- !private ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "allLayoutSubviews"]
+- !private ["So23UIUserActivityRestoringP", "layoutSubviews"]
+- !private ["So23UIUserActivityRestoringP", "setTitle"]
+- ["So23UIUserActivityRestoringP", "setTitleLabelForAll"]
+- !private ["So23UIUserActivityRestoringP", "subviews"]
+- ["So6UIViewC", "String"]
+- ["So6UIViewC", ""]
+- ["So6UIViewC", "allLayoutSubviews"]
+- !private ["So6UIViewC", "layoutSubviews"]
+- !private ["So6UIViewC", "setTitle"]
+- ["So6UIViewC", "setTitleLabelForAll"]
+- !private ["So6UIViewC", "subviews"]
+- !private ["s14_ArrayProtocolP", "forEach"]
+- !private ["s24_DestructorSafeContainerP", "forEach"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["s19_HasContiguousBytesP", "forEach"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "forEach"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "allLayoutSubviews"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layoutSubviews"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subviews"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "allLayoutSubviews"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "layoutSubviews"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setTitle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "subviews"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "allLayoutSubviews"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "layoutSubviews"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setTitle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "subviews"]
+depends-nominal:
+- !private "Sa"
+- "SK"
+- "So15CALayerDelegateP"
+- !private "s7CVarArgP"
+- "Sl"
+- "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- "ST"
+- !private "s10SetAlgebraP"
+- !private "So14UIControlStateV"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So8UIButtonC"
+- "So32UIContextMenuInteractionDelegateP"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So35UISpringLoadedInteractionSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7199de4e79b298a7c94a369a1f83a0b2"

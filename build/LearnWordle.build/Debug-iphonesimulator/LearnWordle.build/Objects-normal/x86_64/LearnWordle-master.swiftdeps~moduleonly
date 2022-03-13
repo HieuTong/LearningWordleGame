@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "fca40a4ee024533dc0cf3ef5c7343de5"
+build_time: [1647193446, 188040000]
+inputs:
+  "/Users/hieutong/Documents/learnApp/LearnWordle/LearnWordle/ViewController.swift": [1647193150, 755869089]
+  "/Users/hieutong/Documents/learnApp/LearnWordle/LearnWordle/Other/AppDelegate.swift": [1647090854, 350651921]
+  "/Users/hieutong/Documents/learnApp/LearnWordle/LearnWordle/Other/SceneDelegate.swift": [1647090854, 364870777]
+  "/Users/hieutong/Documents/learnApp/LearnWordle/LearnWordle/Core/KeyCell.swift": [1647193446, 106488720]
+  "/Users/hieutong/Documents/learnApp/LearnWordle/LearnWordle/Core/KeyboardViewController.swift": [1647171265, 104072525]
+  "/Users/hieutong/Documents/learnApp/LearnWordle/LearnWordle/Core/BoardViewController.swift": [1647191704, 334662945]

@@ -1,0 +1,734 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "UIInitable"
+- "UIInitable"
+- "UIInitable"
+provides-nominal:
+- "11LearnWordle10UIInitableP"
+- "So6UIViewC"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+provides-member:
+- ["So8NSObjectC", ""]
+- ["11LearnWordle10UIInitableP", ""]
+- ["So6UIViewC", ""]
+- ["SS", ""]
+- ["11LearnWordle10UIInitableP", ""]
+- ["11LearnWordle10UIInitableP", ""]
+- ["So20UICollectionViewCellC", ""]
+- ["So8NSObjectC", "className"]
+- ["So8NSObjectC", "className"]
+- ["11LearnWordle10UIInitableP", "instantiate"]
+- ["SS", "toInt"]
+- ["SS", "toDouble"]
+- ["So8NSObjectC", "className"]
+- ["So8NSObjectC", "className"]
+- ["11LearnWordle10UIInitableP", "instantiate"]
+- ["SS", "toInt"]
+- ["SS", "toDouble"]
+- ["So8NSObjectC", "className"]
+- ["So8NSObjectC", "className"]
+- ["11LearnWordle10UIInitableP", "instantiate"]
+- ["SS", "toInt"]
+- ["SS", "toDouble"]
+- ["So20UICollectionViewCellC", "identifier"]
+- ["So20UICollectionViewCellC", "nib"]
+provides-dynamic-lookup:
+- "className"
+- "identifier"
+- "nib"
+depends-top-level:
+- !private "!="
+- !private "??"
+- !private "Bundle"
+- "CastingPrecedence"
+- "Double"
+- "Int"
+- "NSObject"
+- "Self"
+- "String"
+- !private "StringLiteralType"
+- "UICollectionViewCell"
+- "UIInitable"
+- "UINib"
+- "UIView"
+- !private "className"
+- !private "identifier"
+- !private "type"
+depends-member:
+- !private ["s18AdditiveArithmeticP", ""]
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "first"]
+- !private ["SK", "Double"]
+- !private ["SK", "Int"]
+- ["SK", ""]
+- !private ["SK", "first"]
+- !private ["SK", "init"]
+- !private ["SB", "init"]
+- !private ["Sz", ""]
+- !private ["Sz", "init"]
+- !private ["So8NSBundleC", "loadNibNamed"]
+- !private ["So8NSBundleC", "main"]
+- !private ["So8NSBundleC", "path"]
+- !private ["So15CALayerDelegateP", "Bundle"]
+- ["So15CALayerDelegateP", "String"]
+- ["So15CALayerDelegateP", "UINib"]
+- ["So15CALayerDelegateP", "UIView"]
+- !private ["So15CALayerDelegateP", "className"]
+- ["So15CALayerDelegateP", "identifier"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- ["So15CALayerDelegateP", "instantiate"]
+- ["So15CALayerDelegateP", "nib"]
+- !private ["s7CVarArgP", "Bundle"]
+- !private ["s7CVarArgP", "Double"]
+- !private ["s7CVarArgP", "Int"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "UINib"]
+- ["s7CVarArgP", "UIView"]
+- !private ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "className"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "identifier"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "instantiate"]
+- !private ["s7CVarArgP", "loadNibNamed"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "path"]
+- !private ["s7CVarArgP", "type"]
+- !private ["Sl", "Double"]
+- !private ["Sl", "Int"]
+- ["Sl", ""]
+- !private ["Sl", "first"]
+- !private ["Sl", "init"]
+- !private ["SL", "Double"]
+- !private ["SL", "Int"]
+- ["SL", ""]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "Bundle"]
+- !private ["s28CustomDebugStringConvertibleP", "Double"]
+- !private ["s28CustomDebugStringConvertibleP", "Int"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "UINib"]
+- ["s28CustomDebugStringConvertibleP", "UIView"]
+- !private ["s28CustomDebugStringConvertibleP", "className"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "identifier"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "instantiate"]
+- !private ["s28CustomDebugStringConvertibleP", "loadNibNamed"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "type"]
+- !private ["s17CustomReflectableP", "Double"]
+- !private ["s17CustomReflectableP", "Int"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "Bundle"]
+- !private ["s23CustomStringConvertibleP", "Double"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "UINib"]
+- ["s23CustomStringConvertibleP", "UIView"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "className"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "identifier"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "instantiate"]
+- !private ["s23CustomStringConvertibleP", "loadNibNamed"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "type"]
+- !private ["10Foundation12DataProtocolP", ""]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["Se", "Double"]
+- !private ["Se", "Int"]
+- !private ["Se", "first"]
+- !private ["Se", "init"]
+- !private ["Sd", "init"]
+- !private ["SE", "Double"]
+- !private ["SE", "Int"]
+- !private ["SE", "first"]
+- !private ["SE", "init"]
+- !private ["SQ", "Bundle"]
+- !private ["SQ", "Double"]
+- !private ["SQ", "Int"]
+- !private ["SQ", "String"]
+- !private ["SQ", "UINib"]
+- ["SQ", "UIView"]
+- ["SQ", ""]
+- !private ["SQ", "className"]
+- !private ["SQ", "first"]
+- !private ["SQ", "identifier"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- ["SQ", "instantiate"]
+- !private ["SQ", "loadNibNamed"]
+- !private ["SQ", "main"]
+- !private ["SQ", "path"]
+- !private ["SQ", "type"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Double"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Int"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", ""]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "Double"]
+- !private ["s32ExpressibleByStringInterpolationP", "Int"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "Double"]
+- !private ["s26ExpressibleByStringLiteralP", "Int"]
+- ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Double"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Int"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SF", ""]
+- !private ["SF", "init"]
+- !private ["SH", "Bundle"]
+- !private ["SH", "Double"]
+- !private ["SH", "Int"]
+- !private ["SH", "String"]
+- !private ["SH", "UINib"]
+- ["SH", "UIView"]
+- ["SH", ""]
+- !private ["SH", "className"]
+- !private ["SH", "first"]
+- !private ["SH", "identifier"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- ["SH", "instantiate"]
+- !private ["SH", "loadNibNamed"]
+- !private ["SH", "main"]
+- !private ["SH", "path"]
+- !private ["SH", "type"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "Double"]
+- !private ["s25LosslessStringConvertibleP", "Int"]
+- ["s25LosslessStringConvertibleP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "Double"]
+- !private ["s10MirrorPathP", "Int"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", ""]
+- !private ["SM", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["So8NSCodingP", "Bundle"]
+- ["So8NSCodingP", "String"]
+- ["So8NSCodingP", "UINib"]
+- ["So8NSCodingP", "UIView"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "className"]
+- ["So8NSCodingP", "identifier"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "instantiate"]
+- ["So8NSCodingP", "nib"]
+- !private ["So8NSObjectC", "Bundle"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UINib"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "className"]
+- ["So8NSObjectC", "identifier"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "instantiate"]
+- !private ["So8NSObjectC", "loadNibNamed"]
+- !private ["So8NSObjectC", "main"]
+- ["So8NSObjectC", "nib"]
+- !private ["So8NSObjectC", "nibWithData"]
+- !private ["So8NSObjectC", "nibWithNibName"]
+- !private ["So8NSObjectC", "path"]
+- !private ["So8NSObjectC", "pathForAuxiliaryExecutable"]
+- !private ["So8NSObjectC", "pathForResource"]
+- !private ["So8NSObjectC", "type"]
+- !private ["So8NSObjectP", "Bundle"]
+- ["So8NSObjectP", "String"]
+- ["So8NSObjectP", "UINib"]
+- ["So8NSObjectP", "UIView"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "className"]
+- ["So8NSObjectP", "identifier"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "instantiate"]
+- !private ["So8NSObjectP", "loadNibNamed"]
+- !private ["So8NSObjectP", "main"]
+- ["So8NSObjectP", "nib"]
+- !private ["So8NSObjectP", "nibWithData"]
+- !private ["So8NSObjectP", "nibWithNibName"]
+- !private ["So8NSObjectP", "path"]
+- !private ["So8NSObjectP", "pathForAuxiliaryExecutable"]
+- !private ["So8NSObjectP", "pathForResource"]
+- !private ["So8NSObjectP", "type"]
+- !private ["Sj", ""]
+- !private ["Sj", "init"]
+- !private ["Sk", ""]
+- !private ["Sk", "first"]
+- !private ["Sm", "Double"]
+- !private ["Sm", "Int"]
+- !private ["Sm", ""]
+- !private ["Sm", "first"]
+- !private ["Sm", "init"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "Double"]
+- !private ["ST", "Int"]
+- ["ST", ""]
+- !private ["ST", "first"]
+- !private ["ST", "init"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", ""]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", ""]
+- !private ["Sx", "init"]
+- ["SS", "Double"]
+- ["SS", "Int"]
+- ["SS", ""]
+- !private ["SS", "init"]
+- ["SS", "toDouble"]
+- ["SS", "toInt"]
+- !private ["Sy", "Double"]
+- !private ["Sy", "Int"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "Double"]
+- !private ["s16TextOutputStreamP", "Int"]
+- ["s16TextOutputStreamP", ""]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "Double"]
+- !private ["s20TextOutputStreamableP", "Int"]
+- ["s20TextOutputStreamableP", ""]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "Bundle"]
+- ["So29UIAccessibilityIdentificationP", "String"]
+- ["So29UIAccessibilityIdentificationP", "UINib"]
+- ["So29UIAccessibilityIdentificationP", "UIView"]
+- !private ["So29UIAccessibilityIdentificationP", "className"]
+- ["So29UIAccessibilityIdentificationP", "identifier"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- ["So29UIAccessibilityIdentificationP", "instantiate"]
+- ["So29UIAccessibilityIdentificationP", "nib"]
+- !private ["So12UIAppearanceP", "Bundle"]
+- ["So12UIAppearanceP", "String"]
+- ["So12UIAppearanceP", "UINib"]
+- ["So12UIAppearanceP", "UIView"]
+- !private ["So12UIAppearanceP", "className"]
+- ["So12UIAppearanceP", "identifier"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- ["So12UIAppearanceP", "instantiate"]
+- ["So12UIAppearanceP", "nib"]
+- !private ["So21UIAppearanceContainerP", "Bundle"]
+- ["So21UIAppearanceContainerP", "String"]
+- ["So21UIAppearanceContainerP", "UINib"]
+- ["So21UIAppearanceContainerP", "UIView"]
+- !private ["So21UIAppearanceContainerP", "className"]
+- ["So21UIAppearanceContainerP", "identifier"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "instantiate"]
+- ["So21UIAppearanceContainerP", "nib"]
+- ["So24UICollectionReusableViewC", "String"]
+- ["So24UICollectionReusableViewC", "UINib"]
+- ["So24UICollectionReusableViewC", ""]
+- ["So24UICollectionReusableViewC", "identifier"]
+- ["So24UICollectionReusableViewC", "nib"]
+- ["So20UICollectionViewCellC", "String"]
+- ["So20UICollectionViewCellC", "UINib"]
+- ["So20UICollectionViewCellC", ""]
+- ["So20UICollectionViewCellC", "identifier"]
+- ["So20UICollectionViewCellC", "nib"]
+- !private ["So17UICoordinateSpaceP", "Bundle"]
+- ["So17UICoordinateSpaceP", "String"]
+- ["So17UICoordinateSpaceP", "UINib"]
+- ["So17UICoordinateSpaceP", "UIView"]
+- !private ["So17UICoordinateSpaceP", "className"]
+- ["So17UICoordinateSpaceP", "identifier"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- ["So17UICoordinateSpaceP", "instantiate"]
+- ["So17UICoordinateSpaceP", "nib"]
+- !private ["So13UIDynamicItemP", "Bundle"]
+- ["So13UIDynamicItemP", "String"]
+- ["So13UIDynamicItemP", "UINib"]
+- ["So13UIDynamicItemP", "UIView"]
+- !private ["So13UIDynamicItemP", "className"]
+- ["So13UIDynamicItemP", "identifier"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- ["So13UIDynamicItemP", "instantiate"]
+- ["So13UIDynamicItemP", "nib"]
+- !private ["So18UIFocusEnvironmentP", "Bundle"]
+- ["So18UIFocusEnvironmentP", "String"]
+- ["So18UIFocusEnvironmentP", "UINib"]
+- ["So18UIFocusEnvironmentP", "UIView"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "className"]
+- ["So18UIFocusEnvironmentP", "identifier"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "instantiate"]
+- ["So18UIFocusEnvironmentP", "nib"]
+- !private ["So11UIFocusItemP", "Bundle"]
+- ["So11UIFocusItemP", "String"]
+- ["So11UIFocusItemP", "UINib"]
+- ["So11UIFocusItemP", "UIView"]
+- !private ["So11UIFocusItemP", "className"]
+- ["So11UIFocusItemP", "identifier"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- ["So11UIFocusItemP", "instantiate"]
+- ["So11UIFocusItemP", "nib"]
+- !private ["So20UIFocusItemContainerP", "Bundle"]
+- ["So20UIFocusItemContainerP", "String"]
+- ["So20UIFocusItemContainerP", "UINib"]
+- ["So20UIFocusItemContainerP", "UIView"]
+- !private ["So20UIFocusItemContainerP", "className"]
+- ["So20UIFocusItemContainerP", "identifier"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- ["So20UIFocusItemContainerP", "instantiate"]
+- ["So20UIFocusItemContainerP", "nib"]
+- !private ["11LearnWordle10UIInitableP", "Bundle"]
+- !private ["11LearnWordle10UIInitableP", "Bundle"]
+- !private ["11LearnWordle10UIInitableP", "Bundle"]
+- !private ["11LearnWordle10UIInitableP", "Bundle"]
+- !private ["11LearnWordle10UIInitableP", "String"]
+- !private ["11LearnWordle10UIInitableP", "String"]
+- !private ["11LearnWordle10UIInitableP", "String"]
+- !private ["11LearnWordle10UIInitableP", "String"]
+- !private ["11LearnWordle10UIInitableP", "UINib"]
+- !private ["11LearnWordle10UIInitableP", "UINib"]
+- !private ["11LearnWordle10UIInitableP", "UINib"]
+- !private ["11LearnWordle10UIInitableP", "UINib"]
+- ["11LearnWordle10UIInitableP", "UIView"]
+- ["11LearnWordle10UIInitableP", "UIView"]
+- ["11LearnWordle10UIInitableP", "UIView"]
+- ["11LearnWordle10UIInitableP", "UIView"]
+- ["11LearnWordle10UIInitableP", ""]
+- ["11LearnWordle10UIInitableP", ""]
+- ["11LearnWordle10UIInitableP", ""]
+- ["11LearnWordle10UIInitableP", ""]
+- !private ["11LearnWordle10UIInitableP", "className"]
+- !private ["11LearnWordle10UIInitableP", "className"]
+- !private ["11LearnWordle10UIInitableP", "className"]
+- !private ["11LearnWordle10UIInitableP", "className"]
+- !private ["11LearnWordle10UIInitableP", "identifier"]
+- !private ["11LearnWordle10UIInitableP", "identifier"]
+- !private ["11LearnWordle10UIInitableP", "identifier"]
+- !private ["11LearnWordle10UIInitableP", "identifier"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- ["11LearnWordle10UIInitableP", "instantiate"]
+- ["11LearnWordle10UIInitableP", "instantiate"]
+- ["11LearnWordle10UIInitableP", "instantiate"]
+- ["11LearnWordle10UIInitableP", "instantiate"]
+- !private ["So24UILargeContentViewerItemP", "Bundle"]
+- ["So24UILargeContentViewerItemP", "String"]
+- ["So24UILargeContentViewerItemP", "UINib"]
+- ["So24UILargeContentViewerItemP", "UIView"]
+- !private ["So24UILargeContentViewerItemP", "className"]
+- ["So24UILargeContentViewerItemP", "identifier"]
+- !private ["So24UILargeContentViewerItemP", "init"]
+- !private ["So24UILargeContentViewerItemP", "init"]
+- ["So24UILargeContentViewerItemP", "instantiate"]
+- ["So24UILargeContentViewerItemP", "nib"]
+- !private ["So5UINibC", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "Bundle"]
+- ["So30UIPasteConfigurationSupportingP", "String"]
+- ["So30UIPasteConfigurationSupportingP", "UINib"]
+- ["So30UIPasteConfigurationSupportingP", "UIView"]
+- !private ["So30UIPasteConfigurationSupportingP", "className"]
+- ["So30UIPasteConfigurationSupportingP", "identifier"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "instantiate"]
+- ["So30UIPasteConfigurationSupportingP", "nib"]
+- !private ["So11UIResponderC", "Bundle"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UINib"]
+- ["So11UIResponderC", "UIView"]
+- ["So11UIResponderC", ""]
+- !private ["So11UIResponderC", "className"]
+- ["So11UIResponderC", "identifier"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "instantiate"]
+- ["So11UIResponderC", "nib"]
+- !private ["So30UIResponderStandardEditActionsP", "Bundle"]
+- ["So30UIResponderStandardEditActionsP", "String"]
+- ["So30UIResponderStandardEditActionsP", "UINib"]
+- ["So30UIResponderStandardEditActionsP", "UIView"]
+- !private ["So30UIResponderStandardEditActionsP", "className"]
+- ["So30UIResponderStandardEditActionsP", "identifier"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "instantiate"]
+- ["So30UIResponderStandardEditActionsP", "nib"]
+- !private ["So18UITraitEnvironmentP", "Bundle"]
+- ["So18UITraitEnvironmentP", "String"]
+- ["So18UITraitEnvironmentP", "UINib"]
+- ["So18UITraitEnvironmentP", "UIView"]
+- !private ["So18UITraitEnvironmentP", "className"]
+- ["So18UITraitEnvironmentP", "identifier"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "instantiate"]
+- ["So18UITraitEnvironmentP", "nib"]
+- !private ["So23UIUserActivityRestoringP", "Bundle"]
+- ["So23UIUserActivityRestoringP", "String"]
+- ["So23UIUserActivityRestoringP", "UINib"]
+- ["So23UIUserActivityRestoringP", "UIView"]
+- !private ["So23UIUserActivityRestoringP", "className"]
+- ["So23UIUserActivityRestoringP", "identifier"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "instantiate"]
+- ["So23UIUserActivityRestoringP", "nib"]
+- !private ["So6UIViewC", "Bundle"]
+- ["So6UIViewC", "String"]
+- ["So6UIViewC", "UINib"]
+- ["So6UIViewC", "UIView"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "className"]
+- ["So6UIViewC", "identifier"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "init"]
+- ["So6UIViewC", "instantiate"]
+- ["So6UIViewC", "nib"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "Double"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "Int"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "Double"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "Int"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "Double"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "Int"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "Double"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "Int"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "Double"]
+- !private ["s19_HasContiguousBytesP", "Int"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Bundle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UINib"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UIView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "className"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "identifier"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "instantiate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "loadNibNamed"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "path"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "type"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Bundle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "String"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UINib"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "className"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "identifier"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "instantiate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "loadNibNamed"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "main"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "path"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "type"]
+- !private ["s21_ObjectiveCBridgeableP", "Double"]
+- !private ["s21_ObjectiveCBridgeableP", "Int"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "Bundle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "String"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "UINib"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "UIView"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "className"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "identifier"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "instantiate"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- "SK"
+- !private "SB"
+- !private "Sz"
+- !private "So8NSBundleC"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "Sd"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "SF"
+- "SH"
+- !private "Si"
+- "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "Sk"
+- !private "Sm"
+- !private "s10SIMDScalarP"
+- "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- "SS"
+- !private "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So24UICollectionReusableViewC"
+- "So20UICollectionViewCellC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "So24UILargeContentViewerItemP"
+- !private "So5UINibC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s14_ArrayProtocolP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "318258edc38cdc842530b59bf29feb33"

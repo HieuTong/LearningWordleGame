@@ -1,0 +1,540 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "UIInitable"
+provides-nominal:
+- "11LearnWordle10UIInitableP"
+- "So6UIViewC"
+provides-member:
+- ["So8NSObjectC", ""]
+- ["11LearnWordle10UIInitableP", ""]
+- ["So6UIViewC", ""]
+- ["11LearnWordle10UIInitableP", ""]
+- ["SS", ""]
+- ["So8NSObjectC", "className"]
+- ["So8NSObjectC", "className"]
+- ["11LearnWordle10UIInitableP", "instantiate"]
+- ["SS", "toInt"]
+- ["SS", "toDouble"]
+provides-dynamic-lookup:
+- "className"
+depends-top-level:
+- !private "!="
+- !private "??"
+- !private "Bundle"
+- "CastingPrecedence"
+- "Double"
+- "Int"
+- "NSObject"
+- "Self"
+- "String"
+- !private "StringLiteralType"
+- "UIInitable"
+- "UIView"
+- !private "className"
+- !private "type"
+depends-member:
+- !private ["s18AdditiveArithmeticP", ""]
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "first"]
+- !private ["SK", "Double"]
+- !private ["SK", "Int"]
+- !private ["SK", ""]
+- !private ["SK", "first"]
+- !private ["SK", "init"]
+- !private ["SB", "init"]
+- !private ["Sz", ""]
+- !private ["Sz", "init"]
+- !private ["So8NSBundleC", "loadNibNamed"]
+- !private ["So8NSBundleC", "main"]
+- !private ["So8NSBundleC", "path"]
+- !private ["So15CALayerDelegateP", "Bundle"]
+- ["So15CALayerDelegateP", "UIView"]
+- !private ["So15CALayerDelegateP", "className"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["s7CVarArgP", "Bundle"]
+- !private ["s7CVarArgP", "Double"]
+- !private ["s7CVarArgP", "Int"]
+- !private ["s7CVarArgP", "String"]
+- ["s7CVarArgP", "UIView"]
+- !private ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "className"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "loadNibNamed"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "path"]
+- !private ["s7CVarArgP", "type"]
+- !private ["Sl", "Double"]
+- !private ["Sl", "Int"]
+- !private ["Sl", ""]
+- !private ["Sl", "first"]
+- !private ["Sl", "init"]
+- !private ["SL", "Double"]
+- !private ["SL", "Int"]
+- !private ["SL", ""]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "Bundle"]
+- !private ["s28CustomDebugStringConvertibleP", "Double"]
+- !private ["s28CustomDebugStringConvertibleP", "Int"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- ["s28CustomDebugStringConvertibleP", "UIView"]
+- !private ["s28CustomDebugStringConvertibleP", "className"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "loadNibNamed"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "type"]
+- !private ["s17CustomReflectableP", "Double"]
+- !private ["s17CustomReflectableP", "Int"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "Bundle"]
+- !private ["s23CustomStringConvertibleP", "Double"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- ["s23CustomStringConvertibleP", "UIView"]
+- !private ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "className"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "loadNibNamed"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "type"]
+- !private ["10Foundation12DataProtocolP", ""]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["Se", "Double"]
+- !private ["Se", "Int"]
+- !private ["Se", "first"]
+- !private ["Se", "init"]
+- !private ["Sd", "init"]
+- !private ["SE", "Double"]
+- !private ["SE", "Int"]
+- !private ["SE", "first"]
+- !private ["SE", "init"]
+- !private ["SQ", "Bundle"]
+- !private ["SQ", "Double"]
+- !private ["SQ", "Int"]
+- !private ["SQ", "String"]
+- ["SQ", "UIView"]
+- ["SQ", ""]
+- !private ["SQ", "className"]
+- !private ["SQ", "first"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "loadNibNamed"]
+- !private ["SQ", "main"]
+- !private ["SQ", "path"]
+- !private ["SQ", "type"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Double"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Int"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", ""]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "Double"]
+- !private ["s32ExpressibleByStringInterpolationP", "Int"]
+- !private ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "Double"]
+- !private ["s26ExpressibleByStringLiteralP", "Int"]
+- !private ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Double"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Int"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SF", ""]
+- !private ["SF", "init"]
+- !private ["SH", "Bundle"]
+- !private ["SH", "Double"]
+- !private ["SH", "Int"]
+- !private ["SH", "String"]
+- ["SH", "UIView"]
+- !private ["SH", ""]
+- !private ["SH", "className"]
+- !private ["SH", "first"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "loadNibNamed"]
+- !private ["SH", "main"]
+- !private ["SH", "path"]
+- !private ["SH", "type"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "Double"]
+- !private ["s25LosslessStringConvertibleP", "Int"]
+- !private ["s25LosslessStringConvertibleP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "Double"]
+- !private ["s10MirrorPathP", "Int"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", ""]
+- !private ["SM", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["So8NSCodingP", "Bundle"]
+- ["So8NSCodingP", "UIView"]
+- !private ["So8NSCodingP", "className"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSObjectC", "Bundle"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "className"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "loadNibNamed"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "path"]
+- !private ["So8NSObjectC", "type"]
+- !private ["So8NSObjectP", "Bundle"]
+- !private ["So8NSObjectP", "String"]
+- ["So8NSObjectP", "UIView"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "className"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "loadNibNamed"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "path"]
+- !private ["So8NSObjectP", "type"]
+- !private ["Sj", ""]
+- !private ["Sj", "init"]
+- !private ["Sk", ""]
+- !private ["Sk", "first"]
+- !private ["Sm", "Double"]
+- !private ["Sm", "Int"]
+- !private ["Sm", ""]
+- !private ["Sm", "first"]
+- !private ["Sm", "init"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "Double"]
+- !private ["ST", "Int"]
+- !private ["ST", ""]
+- !private ["ST", "first"]
+- !private ["ST", "init"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", ""]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", ""]
+- !private ["Sx", "init"]
+- ["SS", "Double"]
+- ["SS", "Int"]
+- ["SS", ""]
+- !private ["SS", "init"]
+- ["SS", "toDouble"]
+- ["SS", "toInt"]
+- !private ["Sy", "Double"]
+- !private ["Sy", "Int"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "Double"]
+- !private ["s16TextOutputStreamP", "Int"]
+- !private ["s16TextOutputStreamP", ""]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "Double"]
+- !private ["s20TextOutputStreamableP", "Int"]
+- !private ["s20TextOutputStreamableP", ""]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "Bundle"]
+- ["So29UIAccessibilityIdentificationP", "UIView"]
+- !private ["So29UIAccessibilityIdentificationP", "className"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So12UIAppearanceP", "Bundle"]
+- ["So12UIAppearanceP", "UIView"]
+- !private ["So12UIAppearanceP", "className"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So21UIAppearanceContainerP", "Bundle"]
+- ["So21UIAppearanceContainerP", "UIView"]
+- !private ["So21UIAppearanceContainerP", "className"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So17UICoordinateSpaceP", "Bundle"]
+- ["So17UICoordinateSpaceP", "UIView"]
+- !private ["So17UICoordinateSpaceP", "className"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So13UIDynamicItemP", "Bundle"]
+- ["So13UIDynamicItemP", "UIView"]
+- !private ["So13UIDynamicItemP", "className"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So18UIFocusEnvironmentP", "Bundle"]
+- ["So18UIFocusEnvironmentP", "UIView"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "className"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So11UIFocusItemP", "Bundle"]
+- ["So11UIFocusItemP", "UIView"]
+- !private ["So11UIFocusItemP", "className"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So20UIFocusItemContainerP", "Bundle"]
+- ["So20UIFocusItemContainerP", "UIView"]
+- !private ["So20UIFocusItemContainerP", "className"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["11LearnWordle10UIInitableP", "Bundle"]
+- !private ["11LearnWordle10UIInitableP", "Bundle"]
+- !private ["11LearnWordle10UIInitableP", "Bundle"]
+- !private ["11LearnWordle10UIInitableP", "Bundle"]
+- ["11LearnWordle10UIInitableP", "UIView"]
+- ["11LearnWordle10UIInitableP", "UIView"]
+- ["11LearnWordle10UIInitableP", "UIView"]
+- ["11LearnWordle10UIInitableP", "UIView"]
+- ["11LearnWordle10UIInitableP", ""]
+- !private ["11LearnWordle10UIInitableP", "className"]
+- !private ["11LearnWordle10UIInitableP", "className"]
+- !private ["11LearnWordle10UIInitableP", "className"]
+- !private ["11LearnWordle10UIInitableP", "className"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- !private ["11LearnWordle10UIInitableP", "init"]
+- ["11LearnWordle10UIInitableP", "instantiate"]
+- ["11LearnWordle10UIInitableP", "instantiate"]
+- !private ["So24UILargeContentViewerItemP", "Bundle"]
+- ["So24UILargeContentViewerItemP", "UIView"]
+- !private ["So24UILargeContentViewerItemP", "className"]
+- !private ["So24UILargeContentViewerItemP", "init"]
+- !private ["So24UILargeContentViewerItemP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "Bundle"]
+- ["So30UIPasteConfigurationSupportingP", "UIView"]
+- !private ["So30UIPasteConfigurationSupportingP", "className"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So11UIResponderC", "Bundle"]
+- ["So11UIResponderC", "UIView"]
+- ["So11UIResponderC", ""]
+- !private ["So11UIResponderC", "className"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "Bundle"]
+- ["So30UIResponderStandardEditActionsP", "UIView"]
+- !private ["So30UIResponderStandardEditActionsP", "className"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So18UITraitEnvironmentP", "Bundle"]
+- ["So18UITraitEnvironmentP", "UIView"]
+- !private ["So18UITraitEnvironmentP", "className"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So23UIUserActivityRestoringP", "Bundle"]
+- ["So23UIUserActivityRestoringP", "UIView"]
+- !private ["So23UIUserActivityRestoringP", "className"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So6UIViewC", "Bundle"]
+- ["So6UIViewC", "UIView"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "className"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "init"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "Double"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "Int"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "Double"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "Int"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "Double"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "Int"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "Double"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "Int"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "Double"]
+- !private ["s19_HasContiguousBytesP", "Int"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Bundle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UIView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "className"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "loadNibNamed"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "path"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "type"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Bundle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "String"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "className"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "loadNibNamed"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "main"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "path"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "type"]
+- !private ["s21_ObjectiveCBridgeableP", "Double"]
+- !private ["s21_ObjectiveCBridgeableP", "Int"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "Bundle"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "UIView"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "className"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "SK"
+- !private "SB"
+- !private "Sz"
+- !private "So8NSBundleC"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "Sd"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "SF"
+- "SH"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "Sk"
+- !private "Sm"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- !private "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "11LearnWordle10UIInitableP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s14_ArrayProtocolP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5f7146355b545e457152e7636e4591a2"
