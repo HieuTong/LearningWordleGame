@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		421F6CB22803ECE00020FE71 /* LearnWordleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421F6CB12803ECE00020FE71 /* LearnWordleTests.swift */; };
 		4288CFDA27DCD42600316D96 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4288CFD927DCD42600316D96 /* AppDelegate.swift */; };
 		4288CFDC27DCD42600316D96 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4288CFDB27DCD42600316D96 /* SceneDelegate.swift */; };
 		4288CFE127DCD42600316D96 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4288CFDF27DCD42600316D96 /* Main.storyboard */; };
@@ -18,7 +19,20 @@
 		42A4E19527DDB08300D8B37D /* KeyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A4E19327DDB08300D8B37D /* KeyCell.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		421F6CB42803ECE00020FE71 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4288CFCE27DCD42600316D96 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4288CFD527DCD42600316D96;
+			remoteInfo = LearnWordle;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
+		421F6CAF2803ECE00020FE71 /* LearnWordleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearnWordleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		421F6CB12803ECE00020FE71 /* LearnWordleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnWordleTests.swift; sourceTree = "<group>"; };
+		421F6CB32803ECE00020FE71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4288CFD627DCD42600316D96 /* LearnWordle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearnWordle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4288CFD927DCD42600316D96 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4288CFDB27DCD42600316D96 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -33,6 +47,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		421F6CAC2803ECE00020FE71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		4288CFD327DCD42600316D96 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -43,10 +64,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		421F6CB02803ECE00020FE71 /* LearnWordleTests */ = {
+			isa = PBXGroup;
+			children = (
+				421F6CB12803ECE00020FE71 /* LearnWordleTests.swift */,
+				421F6CB32803ECE00020FE71 /* Info.plist */,
+			);
+			path = LearnWordleTests;
+			sourceTree = "<group>";
+		};
 		4288CFCD27DCD42600316D96 = {
 			isa = PBXGroup;
 			children = (
 				4288CFD827DCD42600316D96 /* LearnWordle */,
+				421F6CB02803ECE00020FE71 /* LearnWordleTests */,
 				4288CFD727DCD42600316D96 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				4288CFD627DCD42600316D96 /* LearnWordle.app */,
+				421F6CAF2803ECE00020FE71 /* LearnWordleTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,6 +127,24 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		421F6CAE2803ECE00020FE71 /* LearnWordleTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 421F6CB82803ECE00020FE71 /* Build configuration list for PBXNativeTarget "LearnWordleTests" */;
+			buildPhases = (
+				421F6CAB2803ECE00020FE71 /* Sources */,
+				421F6CAC2803ECE00020FE71 /* Frameworks */,
+				421F6CAD2803ECE00020FE71 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				421F6CB52803ECE00020FE71 /* PBXTargetDependency */,
+			);
+			name = LearnWordleTests;
+			productName = LearnWordleTests;
+			productReference = 421F6CAF2803ECE00020FE71 /* LearnWordleTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		4288CFD527DCD42600316D96 /* LearnWordle */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4288CFEA27DCD42F00316D96 /* Build configuration list for PBXNativeTarget "LearnWordle" */;
@@ -121,6 +171,10 @@
 				LastSwiftUpdateCheck = 1240;
 				LastUpgradeCheck = 1240;
 				TargetAttributes = {
+					421F6CAE2803ECE00020FE71 = {
+						CreatedOnToolsVersion = 12.4;
+						TestTargetID = 4288CFD527DCD42600316D96;
+					};
 					4288CFD527DCD42600316D96 = {
 						CreatedOnToolsVersion = 12.4;
 					};
@@ -140,11 +194,19 @@
 			projectRoot = "";
 			targets = (
 				4288CFD527DCD42600316D96 /* LearnWordle */,
+				421F6CAE2803ECE00020FE71 /* LearnWordleTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		421F6CAD2803ECE00020FE71 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		4288CFD427DCD42600316D96 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -158,6 +220,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		421F6CAB2803ECE00020FE71 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				421F6CB22803ECE00020FE71 /* LearnWordleTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		4288CFD227DCD42600316D96 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -172,6 +242,14 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		421F6CB52803ECE00020FE71 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4288CFD527DCD42600316D96 /* LearnWordle */;
+			targetProxy = 421F6CB42803ECE00020FE71 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		4288CFDF27DCD42600316D96 /* Main.storyboard */ = {
@@ -193,6 +271,46 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		421F6CB62803ECE00020FE71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AAU9QPH2F2;
+				INFOPLIST_FILE = LearnWordleTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = HieuTong.LearnWordleTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LearnWordle.app/LearnWordle";
+			};
+			name = Debug;
+		};
+		421F6CB72803ECE00020FE71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AAU9QPH2F2;
+				INFOPLIST_FILE = LearnWordleTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = HieuTong.LearnWordleTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LearnWordle.app/LearnWordle";
+			};
+			name = Release;
+		};
 		4288CFE827DCD42F00316D96 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -352,6 +470,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		421F6CB82803ECE00020FE71 /* Build configuration list for PBXNativeTarget "LearnWordleTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				421F6CB62803ECE00020FE71 /* Debug */,
+				421F6CB72803ECE00020FE71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		4288CFD127DCD42600316D96 /* Build configuration list for PBXProject "LearnWordle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
