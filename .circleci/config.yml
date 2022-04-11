@@ -1,10 +1,10 @@
 version: 2.1
 
 jobs: # a basic unit of work in a run
-  build:
+  build-and-test:
     macos:
       xcode: 12.5.1 # indicate your selected version of Xcode
-    enviroment:
+    environment:
       FL_OUTPUT_DIR: output
     steps:
       - checkout
@@ -12,7 +12,7 @@ jobs: # a basic unit of work in a run
           # build our application
           name: Build Application
           command: fastlane scan
-          enviroment: 
+          environment:
             SCAN_DEVICE: iPhone 8
             SCAN_SCHEME: LearnWordle
       - store_test_results:
@@ -24,4 +24,4 @@ workflows:
   version: 2
   test_build:
     jobs:
-      - build
+      - build-and-test
