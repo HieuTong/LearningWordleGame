@@ -1,0 +1,27 @@
+version: 2.1
+
+jobs: # a basic unit of work in a run
+  build:
+    macos:
+      xcode: 12.5.1 # indicate your selected version of Xcode
+    enviroment:
+      FL_OUTPUT_DIR: output
+    steps:
+      - checkout
+      - run:
+          # build our application
+          name: Build Application
+          command: fastlane scan
+          enviroment: 
+            SCAN_DEVICE: iPhone 8
+            SCAN_SCHEME: LearnWordle
+      - store_test_results:
+          path: output/scan
+      - store_artifacts: # store this build output. Read more: https://circleci.com/docs/2.0/artifacts/
+          path: ouput
+
+workflows:
+  version: 2
+  test_build:
+    jobs:
+      - build
